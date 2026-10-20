@@ -222,6 +222,18 @@ public final class CertBlocklistImpl implements CertBlocklist {
             // src/test/resources/blocklist_test_ca2.pem and
             // src/test/resources/blocklist_test_ca2_key.pem.
             "809964b15e9bd312993d9984045551f503f2cf8e68f39188921ba30fe623f9fd".getBytes(UTF_8),
+            // 9717b1e4242ac93e7e6cafd2123130c9b6d12931c4b7d157f328dceb489ebdab.pem
+            "6c0702e86e0238abdb974f44a30e1a75f627cc50b4e7ce6bb1c0923b98d0e81c".getBytes(UTF_8),
+            // 9adb8bc0ad191ff90992722ab16f15d607b6c111e60f0aec704a09f3360a2d81.pem
+            "f806c390ef8d1165ef61bc77ef66de4b245a31f5bebf1029038ff31c50a63f59".getBytes(UTF_8),
+            // 3a554ead9dd3e881c0bf6b4c694755ca51acbfb5b99ded5af49da950be21f2f7.pem
+            "cef8710dff5e87a2830daa85e884f082033de58ed395a10f7e7c7334b5bfbe58".getBytes(UTF_8),
+            // 632b75ece2b543391dc3d520c4d9944cd6b9a302a9a60401aabcaaddf6b9451d.pem
+            "5be28fcf7e31ba64fb2459e278ef032e3a09b61851952d6e85f746150fcadff1".getBytes(UTF_8),
+            // e0486928e42eeebca5e9ab5ce0f2d266f2ec9314542c0ab170736147383d21b0.pem
+            "29ec436daffa63d25f502cc9952277581876f6893feb783a0444a6f5e73aa422".getBytes(UTF_8),
+            // 289ed1676f42b679f2b665bb5a3f25610d9d19ac017beafa46787f1d6022986a.pem
+            "36ce75edea806f0985145683294e54dbdff02fc821870cf5067a308d1504be3a".getBytes(UTF_8),
     };
 
     private static Set<ByteArray> readPublicKeyBlockList(String path, String hashType) {
