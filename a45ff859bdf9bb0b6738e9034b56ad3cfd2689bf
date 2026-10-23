@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "af3b14b4_3f2e31b2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32837
+      },
+      "writtenOn": "2026-10-23T14:49:14Z",
+      "side": 1,
+      "message": "Intermediate Certificate (CA)\tCertificate Type\tPrivate Key Value\nEM OV TLS CA - G3C\tOrganization Validated (OV TLS)\t4\nEM EV TLS CA - G3C\tExtended Validation (EV TLS)\t56\nEM OV CS CA - G3B\tCode Signing (OV CS)\t66\nEM EV TLS CA - G3B\tExtended Validation (EV TLS)\t115\nEM OV TLS CA - G3B\tOrganization Validated (OV TLS)\t155\nEM DV TLS CA - G3B\tDomain Validated (DV TLS)\t156\nEM DV TLS CA - G3C\tDomain Validated (DV TLS)\t230\nEM OV CS CA - G3C\tCode Signing (OV CS)\t237",
+      "revId": "a45ff859bdf9bb0b6738e9034b56ad3cfd2689bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
