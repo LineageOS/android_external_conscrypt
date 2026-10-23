@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e8a527b0_6c364319",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2026-10-23T16:50:21Z",
+      "side": 1,
+      "message": "This is what I get by running curl again instead of cherry-picking, I ended up pulling the newer blocklist by chance only in 22.2",
+      "revId": "061bca0ac3832e314b0d15909748b993fd629b8c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
